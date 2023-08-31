@@ -1,0 +1,21 @@
+.voting-content {
+    display: flex;
+}
+
+.voting-box {
+    margin: 0 30px;
+}
+
+.voting-img {
+    max-width: 80px;
+    position: relative;
+    top: -0.5px;
+}
+
+.voting-img:active {
+    top: 0;
+}
+
+.winner-img {
+    max-width: 80px;
+}
