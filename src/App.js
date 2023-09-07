@@ -1,5 +1,5 @@
 import './App.css';
-import Voting from '../Voting/Voting';
+import Voting from './components/Voting/Voting';
 
 function App() {
   return (

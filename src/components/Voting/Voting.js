@@ -1,11 +1,11 @@
 /* eslint-disable jsx-a11y/alt-text */
 import React, { useState } from 'react';
 import "./Voting.css";
-import business from "../images/business.png";
-import haywire from "../images/haywire.png";
-import laugh from "../images/laugh.png";
-import thoughtfulness from "../images/thoughtfulness.png";
-import unkind from "../images/unkind.png";
+import business from "../../assets/images/business.png";
+import haywire from "../../assets/images/haywire.png";
+import laugh from "../../assets/images/laugh.png";
+import thoughtfulness from "../../assets/images/thoughtfulness.png";
+import unkind from "../../assets/images/unkind.png";
 
 
 
@@ -63,3 +63,7 @@ function Voting() {
     );
 }
 export default Voting;
+////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
